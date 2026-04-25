@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+/logs
+
+# Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data
+/data
+/models
+
+# Node modules
+node_modules/
+pm-debug.log
+
+# Frontend
+frontend/dist/
+frontend/.next/
+
+# Temp
+/tmp
+/temp
